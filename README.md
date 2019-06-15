@@ -37,8 +37,7 @@ step 10:git push -u origin master (to push the masterbranch)
 
 ## README file
 
-In gitbash write vim README.md, vim will be opened. press i insert file will be opened. writing can begin # is title, ## header please beaware of the space in between. To insert code do 
-
+In gitbash write vim README.md, vim will be opened. press i insert file will be opened. writing can begin # is title, ## header please beaware of the space in between. To insert code do by adding {```} before and three {```} after
 ```
 pip install Flask
 python app.py
